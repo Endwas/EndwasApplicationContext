@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bf7c62b-6f13-4fb3-9f29-f8e5c11de255" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21i10FZjYfXABrZ08YRah9GwVEg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/springframework/annotation" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.endwas" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\EndwasApplication\src\main\java\org\springframework\annotation" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.endwas.main" />
+      <module name="EndwasApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.endwas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bf7c62b-6f13-4fb3-9f29-f8e5c11de255" name="Default Changelist" comment="" />
+      <created>1638408868737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638408868737</updated>
+      <workItem from="1638408871729" duration="2281000" />
+      <workItem from="1638580174611" duration="679000" />
+      <workItem from="1638581786446" duration="13023000" />
+      <workItem from="1638598862753" duration="6843000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#Project_Structure" timestamp="1638583843123">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1638583843123" />
+    <state x="223" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638586150760">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1638586150760" />
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1638599518127">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1638599518127" />
+    <state x="405" y="358" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1638411693517">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="405" y="358" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.864@0.0.1536.864" timestamp="1638411693517" />
+    <state x="548" y="291" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1638601966005">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="291" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1638601966005" />
+    <state width="494" height="466" key="DebuggerActiveHint" timestamp="1638602996279">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="494" height="466" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1638602996279" />
+    <state width="1492" height="268" key="GridCell.Tab.0.bottom" timestamp="1638605490529">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="268" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1638605490529" />
+    <state width="1492" height="268" key="GridCell.Tab.0.center" timestamp="1638605490528">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="268" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1638605490528" />
+    <state width="1492" height="268" key="GridCell.Tab.0.left" timestamp="1638605490528">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="268" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1638605490528" />
+    <state width="1492" height="268" key="GridCell.Tab.0.right" timestamp="1638605490529">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="268" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1638605490529" />
+    <state width="1492" height="328" key="GridCell.Tab.1.bottom" timestamp="1638604380114">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="328" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1638604380114" />
+    <state width="1492" height="328" key="GridCell.Tab.1.center" timestamp="1638604380114">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="328" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1638604380114" />
+    <state width="1492" height="328" key="GridCell.Tab.1.left" timestamp="1638604380114">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="328" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1638604380114" />
+    <state width="1492" height="328" key="GridCell.Tab.1.right" timestamp="1638604380114">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="328" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1638604380114" />
+    <state x="249" y="7" key="SettingsEditor" timestamp="1638599982411">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1638599982411" />
+    <state x="93" y="93" width="1350" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1638602973590">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1638602973590" />
+    <state x="499" y="200" key="extract.method.dialog" timestamp="1638604077657">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="200" key="extract.method.dialog/0.0.1536.864@0.0.1536.864" timestamp="1638604077657" />
+    <state x="447" y="165" width="642" height="534" key="find.popup" timestamp="1638604340112">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="447" y="165" width="642" height="534" key="find.popup/0.0.1536.864@0.0.1536.864" timestamp="1638604340112" />
+    <state x="470" y="60" key="refactoring.ChangeSignatureDialog" timestamp="1638596853469">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="470" y="60" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1638596853469" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1638604263113">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1638604263113" />
+  </component>
+</project>
